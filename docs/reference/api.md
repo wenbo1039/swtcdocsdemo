@@ -28,7 +28,7 @@ http://localhost/v2/wallet/new
 返回的结果信息：
 
 | 参数 | 类型 |说明|
-| -: | -: |-:|
+| :- | :-|:-|
 | success | Boolean |请求结果  
 | wallet | Object |井通钱包  
 | secret | String |井通钱包私钥

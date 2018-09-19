@@ -1,0 +1,33 @@
+site_name: 'swtcdocs demo'
+pages:
+- '公链介绍':
+    - 'SWTC公链': 'index.md'
+    - 'SWTC通证': 'intro/swtctoken.md'
+    - '社区及资源': 'intro/resources.md'
+    - '基金会及历史': 'intro/foundation.md'
+    - '生态节点计划': 'intro/nodestrategy.md'
+- '概念':
+    - '账户': 'concepts/account.md'
+    - '银关': 'concepts/fingate.md'
+    - '资产': 'concepts/asset.md'
+    - '费用': 'concepts/fee.md'
+    - '撮合交易': 'concepts/exchange.md'
+    - '账本': 'concepts/ledger.md'
+    - '操作': 'concepts/operation.md'
+    - '节点': 'concepts/node.md'
+    - '智能合约': 'concepts/contract.md'
+    - '集群': 'concepts/cluster.md'
+    - '测试网': 'concepts/testnet.md'
+- '开发参考':
+    - 'API列表': 'reference/api.md'
+    - 'Python SDK': 'reference/python.md'
+    - 'Service节点手册': 'reference/servicenode.md'
+- '关于': 'about.md'
+- '其他':
+    - 'API及RPC使用详解': 'tutorial/tutorial2.md'
+    - '申请发行通证流程': 'tutorial/tutorial1.md'
+    - '应用上链流程': 'tutorial/tutorial1.md'
+extra_css: ['docs/bootstrap/css']
+extra_javascript: ['docs/bootstrap/js']
+theme_dir: 'docs/bootstrap'
+repo_url: 'https://github.com/penlylu/DocsFromIC'

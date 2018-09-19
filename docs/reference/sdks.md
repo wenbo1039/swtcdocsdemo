@@ -25,3 +25,21 @@
 作者：
 
 [Github/jingtum-lib-python](https://github.com/swtcpro/jingtum-lib-python)
+
+## C++ SDK
+
+作者：
+
+[Github/jingtum-lib-cpp](#)
+
+## Go SDK
+
+作者：
+
+[Github/jingtum-lib-go](#)
+
+## Ojective-C SDK
+
+作者：
+
+[Github/jingtum-lib-ojectivec](#)

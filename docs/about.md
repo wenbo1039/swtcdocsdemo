@@ -14,7 +14,7 @@ SWTCDocs项目是SWTC基金会资助的一个独立运作的社区项目。你�
 
 ## 信息公示
 
-本项目SWTC钱包地址：
+本项目SWTC钱包地址：jR6vXqF1WsBPEm24EgBo6XG8QKidatxQj
 
 ## 意见及建议
 

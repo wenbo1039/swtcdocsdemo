@@ -27,11 +27,12 @@ http://localhost/v2/wallet/new
 ```
 返回的结果信息：
 
-| 钱包地址 | 锁仓数量 |
-| :-: | :-: |
-| jhASywztR3zWgaHmP7aY6vW22FFj46Rsnh | 240,000,001,000 |
-| jabT6rzpAwhWqJ8bLwmuLeqnHWZahjP7AN | 135,000,000,999 |
-| jMiw4jTNX6rR54RX4oz7eVrGvcJVsFDX5i | 119,379,941,000 |
+| 参数 | 类型 |说明|
+| :-: | :-: |:-:|
+| success | Boolean |请求结果  
+| wallet | Object |井通钱包  
+| secret | String |井通钱包私钥
+| address | String |井通钱包地址
 
 +------------------------+------------+----------+----------+
 | 参数                   | 类型       |           说明      |

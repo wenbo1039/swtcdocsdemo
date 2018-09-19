@@ -10,7 +10,7 @@ www.swtc.top
 
 区块浏览器
 
-state.jingtum.com
+http://state.jingtum.com
 
 # 社区
 
@@ -39,7 +39,7 @@ http://0.plus/swtcchina
 
 4.3 官方论坛
 
-bbswtc.com
+http://bbswtc.com
 
 4.4 官方微博
 

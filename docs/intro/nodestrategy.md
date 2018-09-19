@@ -58,8 +58,8 @@ R节点|江浙|1||
 北京节点|北京|1||
 华信（DHC）节点|大连|1|[大连华信计算机技术股份有限公司](http://www.dhc.com.cn/)|
 白墨子安全节点|北京|1||
-新星节点|上海|1||
+新星节点|上海|1|上海儒一信息科技有限公司|
 神农节点|长沙|1||
 畅节点|合肥|2||
 中关村节点|北京|1||
-Blockwise节点|德国|1||
+Blockweise节点|德国|1|[Blockweise](http://blockweise.com/)|info@blockweise.com

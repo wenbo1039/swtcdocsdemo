@@ -31,8 +31,8 @@ http://localhost/v2/wallet/new
 | :- | :-|:-|
 | success | Boolean |请求结果  
 | wallet | Object |井通钱包  
-| secret | String |井通钱包私钥
-| address | String |井通钱包地址
+|  secret | String |井通钱包私钥
+|  address | String |井通钱包地址
 
 +------------------------+------------+----------+----------+
 | 参数                   | 类型       |           说明      |

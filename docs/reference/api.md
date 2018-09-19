@@ -12,7 +12,7 @@
 http://localhost/v2/wallet/new
 
 结果如下：
-
+```
 .. code-block:: json
 
 
@@ -24,7 +24,7 @@ http://localhost/v2/wallet/new
 	    "address": "jN22GEKA4kha8xGktuo1K4MpMhx6RRahQS"
 	  }
 	}
-
+```
 返回的结果信息：
 
 | 钱包地址 | 锁仓数量 |

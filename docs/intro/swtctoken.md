@@ -19,7 +19,7 @@
 &emsp;&emsp;SWTC基金会公布以下冷钱包地址，接受社区监督。
 
 | 钱包地址 | 锁仓数量 |
-| -: | -: |
+| :- | :-: |
 | jhASywztR3zWgaHmP7aY6vW22FFj46Rsnh | 240,000,001,000 |
 | jabT6rzpAwhWqJ8bLwmuLeqnHWZahjP7AN | 135,000,000,999 |
 | jMiw4jTNX6rR54RX4oz7eVrGvcJVsFDX5i | 119,379,941,000 |
